@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7 recursion CaseAlternatorTask", "7 recursion CaseAlternatorTask.csproj", "{75720469-6EB2-42EB-B7D9-4C8FD75E200D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75720469-6EB2-42EB-B7D9-4C8FD75E200D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75720469-6EB2-42EB-B7D9-4C8FD75E200D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75720469-6EB2-42EB-B7D9-4C8FD75E200D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75720469-6EB2-42EB-B7D9-4C8FD75E200D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {879E5817-9606-4B99-9606-5B6222FB4AA8}
+	EndGlobalSection
+EndGlobal
